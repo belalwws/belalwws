@@ -1,61 +1,49 @@
-<h1 align="center">📊 Belal Ahmed</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Belal+Ahmed;Data+Analyst+%7C+Data+Engineer;Turning+Data+Into+Decisions" />
+</p>
+
 <h3 align="center">🚀 Data Analyst | Data Engineer</h3>
 
 <p align="center">
-I turn raw data into insights and build robust pipelines to power data-driven decisions.
+I transform messy data into clean insights & build scalable data pipelines ⚡
 </p>
 
 ---
 
-## 📌 About Me
+## 🧠 About Me
 
-Hi, I'm **Belal Ahmed** — Data Analyst & Data Engineer 👨‍💻⚡
-
-Passionate about transforming messy data into clean, actionable stories using **SQL, Python, and BI tools**.
+```diff
++ Turning raw data into insights
++ Building ETL pipelines & dashboards
++ Obsessed with clean, structured data
+```
 
 🎓 Computer Engineering Graduate — AIET (2025)
 
-🚀 I build real-world data projects:
+📊 Working with:
+`SQL` • `Python` • `Power BI` • `ETL Pipelines`
 
-* End-to-end ETL pipelines
-* Interactive Power BI dashboards
-* Automated reporting systems
+📚 Currently learning:
+`dbt` • `Airflow` • `Snowflake` • Advanced Analytics
 
-📚 Currently leveling up in:
-
-* dbt
-* Apache Airflow
-* Snowflake
-* Advanced SQL analytics
-
-📊 I create educational tech content that breaks down complex data concepts into simple visuals
-
-💡 Passionate about:
-
-* Data Modeling
-* Business Intelligence
-* Making data accessible to everyone
-
-🌍 Open to **remote Data Analyst / Data Engineer opportunities & collaborations**
-
-🚀 *Let's turn data into decisions!*
+🌍 Open to **Remote Opportunities**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/belallahmed_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/belal-ahmid/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@BakTech">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://x.com/belalsq1">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@BakTech">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://instagram.com/belallahmed_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:belal.ahmed121sq1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -64,43 +52,19 @@ Passionate about transforming messy data into clean, actionable stories using **
 
 ---
 
-## 💻 Tech Stack
-
-### 📊 Data & Analytics
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/SQL-07405e?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-</p>
 
-### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,git,aws" /><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/SQL-000?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow"/>
 
-### ⚙️ Data Engineering
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
-</p>
-
-### 📊 BI & Visualization
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-</p>
-
-### ☁️ DevOps & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -108,8 +72,8 @@ Passionate about transforming messy data into clean, actionable stories using **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belalwws&theme=tokyonight&hide_border=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=belalwws&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=belalwws&theme=tokyonight&hide_border=true&show_icons=true"/>
+  <img src="https://streak-stats.demolab.com?user=belalwws&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -118,10 +82,26 @@ Passionate about transforming messy data into clean, actionable stories using **
 
 ---
 
-## ✍️ Random Dev Quote
+## 🧠 Data Mindset
+
+```yaml
+Focus:
+  - Data Cleaning
+  - Data Modeling
+  - ETL Pipelines
+  - Business Insights
+
+Goal:
+  - Become top-tier Data Engineer
+  - Build scalable data systems
+```
+
+---
+
+## ✍️ Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -129,9 +109,9 @@ Passionate about transforming messy data into clean, actionable stories using **
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=belalwws&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=belalwws&icon=5&color=6"/>
 </p>
 
 ---
 
-<h3 align="center">⚡ "Data is useless without insight — I build both."</h3>
+<h3 align="center">⚡ “Data is useless without insight — I build both.”</h3>
