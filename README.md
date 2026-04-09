@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=55&lines=%F0%9F%94%8D+Turning+Raw+Data+Into+Business+Decisions;%F0%9F%9B%A0%EF%B8%8F+Building+Scalable+ETL+Pipelines+%26+Dashboards;%F0%9F%93%88+From+Messy+CSVs+to+Actionable+Insights" />
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://linkedin.com/in/belal-ahmid/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -119,7 +121,7 @@ const belal = {
 <!-- FEATURED PROJECT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"/> &nbsp;Featured Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp;Featured Project
 
 <table>
 <tr>
@@ -187,16 +189,6 @@ const belal = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=belalwws&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- DATA MINDSET -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -234,10 +226,6 @@ graph LR
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=belalwws&icon=5&color=6"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FFF&height=120&section=footer"/>
 
