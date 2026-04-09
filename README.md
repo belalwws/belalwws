@@ -1,45 +1,87 @@
-<img width="1440" height="3500" alt="image" src="https://github.com/user-attachments/assets/f9f169ad-ad2e-410f-bbd1-d144486d2358" /><img width="1440" height="3500" alt="image" src="https://github.com/user-attachments/assets/77605d1f-e98a-4cda-b003-7cbb1001e81e" /># 📊 About Me:
-Hi, I'm Belal Ahmed — Data Analyst & Data Engineer 👨‍💻⚡
-I turn raw data into insights and build robust pipelines to power data-driven decisions.
-Passionate about transforming messy data into clean, actionable stories using SQL, Python, and BI tools.
+# 📊 About Me:
+Hi, I'm **Belal Ahmed** — Data Analyst & Data Engineer 👨‍💻⚡  
+I turn raw data into insights and build robust pipelines to power data-driven decisions.  
 
-🎓 Computer Engineering graduate — AIET (2025)
+Passionate about transforming messy data into clean, actionable stories using **SQL, Python, and BI tools**.
 
-🚀 I build real-world data projects: end-to-end ETL pipelines, interactive Power BI dashboards, and automated reporting systems.
+🎓 Computer Engineering Graduate — AIET (2025)
 
-📚 Currently leveling up in: dbt, Apache Airflow, Snowflake, and advanced SQL analytics
+🚀 I build real-world data projects:
+- End-to-end ETL pipelines  
+- Interactive Power BI dashboards  
+- Automated reporting systems  
 
-📊 I create educational tech content that breaks down complex data concepts into simple visuals
+📚 Currently leveling up in:
+- dbt  
+- Apache Airflow  
+- Snowflake  
+- Advanced SQL analytics  
 
-💡 Passionate about data modeling, business intelligence, and making data accessible to everyone
+📊 I create educational tech content that breaks down complex data concepts into simple visuals  
 
-🌍 Open to remote Data Analyst / Data Engineer opportunities & collaborations
+💡 Passionate about:
+- Data Modeling  
+- Business Intelligence  
+- Making data accessible to everyone  
 
-Let's turn data into decisions! 🚀
-## 🌐 Socials: — نفس الـ badges بس
+🌍 Open to **remote Data Analyst / Data Engineer opportunities & collaborations**  
 
-[![Instagram](...)](https://instagram.com/belallahmed_) [![LinkedIn](...)](https://linkedin.com/in/belal-ahmid/) [![X](...)](https://x.com/belalsq1) [![YouTube](...)](https://youtube.com/@BakTech) [![email](...)](mailto:belal.ahmed121sq1@gmail.com)
-## 💻 Tech Stack: — Data-focused فقط
+🚀 *Let's turn data into decisions!*
 
+---
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/belallahmed_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/belal-ahmid/)  
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/belalsq1)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@BakTech)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belal.ahmed121sq1@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+
+### 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Data Engineering
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-## 📊 GitHub Stats: — نفس الـ widgets
+
+---
+
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=belalwws&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=belalwws&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=belalwws&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### ✍️ Random Dev Quote + visit counter — نفس الكود
+
+---
+
+## ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
+
+## 👀 Profile Views:
+
 [![](https://visitcount.itsvg.in/api?id=belalwws&icon=0&color=0)](https://visitcount.itsvg.in)
