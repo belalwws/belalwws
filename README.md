@@ -1,21 +1,45 @@
-# 💫 About Me:
-Hi, I'm Belal Ahmed — Frontend Developer 👨‍💻⚡<br>A React & Next.js developer focused on building fast, modern, and scalable web applications.<br>I enjoy creating clean UI/UX experiences using Tailwind CSS, Redux, and the latest frontend tools.<br><br>🎓 Computer Engineering student at AIET (Graduating 2025)<br><br>🚀 I build real-world projects like MindMed (mental health platform), Bak Watch (streaming UI), and Bak Technology (company website)<br><br>📚 Currently improving my skills in React performance, Next.js App Router, and unit testing<br><br>🎥 I also make educational tech videos that simplify complex topics<br><br>💡 Passionate about building tools, dashboards, and interactive user interfaces<br><br>🌍 Open to remote frontend opportunities & collaborations<br><br>Let's build something amazing! 🚀
+<img width="1440" height="3500" alt="image" src="https://github.com/user-attachments/assets/f9f169ad-ad2e-410f-bbd1-d144486d2358" /><img width="1440" height="3500" alt="image" src="https://github.com/user-attachments/assets/77605d1f-e98a-4cda-b003-7cbb1001e81e" /># 📊 About Me:
+Hi, I'm Belal Ahmed — Data Analyst & Data Engineer 👨‍💻⚡
+I turn raw data into insights and build robust pipelines to power data-driven decisions.
+Passionate about transforming messy data into clean, actionable stories using SQL, Python, and BI tools.
 
+🎓 Computer Engineering graduate — AIET (2025)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belallahmed_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/belal-ahmid/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/belalsq1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@/@BakTech) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@‬‏) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belal.ahmed121sq1@gmail.com) 
+🚀 I build real-world data projects: end-to-end ETL pipelines, interactive Power BI dashboards, and automated reporting systems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=belalwws&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=belalwws&theme=dark&hide_border=false)<br/>
+📚 Currently leveling up in: dbt, Apache Airflow, Snowflake, and advanced SQL analytics
+
+📊 I create educational tech content that breaks down complex data concepts into simple visuals
+
+💡 Passionate about data modeling, business intelligence, and making data accessible to everyone
+
+🌍 Open to remote Data Analyst / Data Engineer opportunities & collaborations
+
+Let's turn data into decisions! 🚀
+## 🌐 Socials: — نفس الـ badges بس
+
+[![Instagram](...)](https://instagram.com/belallahmed_) [![LinkedIn](...)](https://linkedin.com/in/belal-ahmid/) [![X](...)](https://x.com/belalsq1) [![YouTube](...)](https://youtube.com/@BakTech) [![email](...)](mailto:belal.ahmed121sq1@gmail.com)
+## 💻 Tech Stack: — Data-focused فقط
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 📊 GitHub Stats: — نفس الـ widgets
+
+![](https://github-readme-stats.vercel.app/api?username=belalwws&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=belalwws&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=belalwws&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### ✍️ Random Dev Quote + visit counter — نفس الكود
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=belalwws&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
