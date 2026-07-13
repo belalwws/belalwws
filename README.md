@@ -2,10 +2,10 @@
 <!-- HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FFF&height=220&section=header&text=Belal%20Ahmed&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Engineer&descSize=18&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FFF&height=220&section=header&text=Belal%20Ahmed&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20%26%20BI%20Professional&descSize=18&descAlignY=55&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=55&lines=%F0%9F%94%8D+Turning+Raw+Data+Into+Business+Decisions;%F0%9F%9B%A0%EF%B8%8F+Building+Scalable+ETL+Pipelines+%26+Dashboards;%F0%9F%93%88+From+Messy+CSVs+to+Actionable+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+Production-Ready+Web+Applications;Designing+APIs%2C+Databases+%26+Analytics;Turning+Products+and+Data+Into+Business+Value" />
 </p>
 
 <br>
@@ -34,136 +34,219 @@
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30"/> &nbsp;About Me
+## 👨‍💻 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png"/>
-
-```js
+```ts
 const belal = {
-    title: "Data Analyst & Data Engineer",
+    role: "Full-Stack Developer & Data/BI Professional",
     education: "Computer Engineering — AIET (2025)",
-    location: "Egypt | Open to Remote",
+    location: "Alexandria, Egypt | Open to Remote",
 
-    dailyStack: ["SQL", "Python", "Power BI", "Excel"],
-    learning: ["dbt", "Airflow", "Snowflake"],
+    softwareEngineering: ["Next.js", "React", "TypeScript", "Django"],
+    dataAndBI: ["SQL", "Power BI", "Excel", "Python"],
+    infrastructure: ["Docker", "Linux", "DigitalOcean", "Vercel"],
 
-    motto: "Data without insight is just noise."
+    approach: "Build the product. Measure the impact. Improve with data."
 };
 ```
 
-<br>
+I work across two connected tracks: **software engineering** and **data & business intelligence**. I build end-to-end web products, backend APIs, and database-driven systems, while also creating analytical models, dashboards, and data workflows that turn product activity into measurable business insight.
 
-- 🔭 &nbsp;Building **ETL pipelines** & interactive **dashboards**
-- 📊 &nbsp;Passionate about **data cleaning**, **modeling** & **KPI tracking**
-- 🧠 &nbsp;Experienced in analyzing **user behavior** & **engagement patterns**
-- 🎯 &nbsp;Goal: Become a **top-tier Data Engineer** building scalable systems
-- ⚡ &nbsp;Fun fact: I automated **hackathon data analysis** for 800+ participants
+- 🌐 Building responsive web applications, APIs, and production-ready full-stack systems
+- 📊 Transforming raw data into SQL models, Power BI dashboards, KPIs, and recommendations
+- 🧩 Connecting product development with analytics to support better decisions
+- 🚀 Comfortable taking projects from idea and implementation to deployment and measurement
+- 🎯 Open to **Full-Stack, Frontend, Backend, Data Analyst, and BI Developer** opportunities
 
-<br clear="both">
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp;Tech Stack
-
-<table align="center">
-<tr>
-<td align="center" width="150"><b>📋 Languages</b></td>
-<td align="center" width="150"><b>🗄️ Databases</b></td>
-<td align="center" width="150"><b>📊 Analytics</b></td>
-<td align="center" width="150"><b>⚙️ Tools</b></td>
-<td align="center" width="150"><b>☁️ Cloud</b></td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="40"/><br><sub>Python</sub><br>
-  <img src="https://skillicons.dev/icons?i=bash" width="40"/><br><sub>SQL / Bash</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br><sub>PostgreSQL</sub><br>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub>MySQL</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub>Git</sub><br>
-  <img src="https://skillicons.dev/icons?i=docker" width="40"/><br><sub>Docker</sub>
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="40"/><br><sub>AWS</sub><br>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="28"/><br>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="28"/>
-</td>
-</tr>
-</table>
-
-<br>
+> **Portfolio structure:** My repositories are grouped into **Full-Stack Engineering** and **Data & BI** projects so each recruiter can quickly review the work relevant to the role.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KPI_Dashboards-1976D2?style=flat-square&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-9C27B0?style=flat-square&logo=diagramsdotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+  <a href="#-full-stack-engineering-projects"><b>Full-Stack Projects</b></a>
+  &nbsp;•&nbsp;
+  <a href="#-data--bi-projects"><b>Data & BI Projects</b></a>
+  &nbsp;•&nbsp;
+  <a href="#-technical-toolkit"><b>Technical Toolkit</b></a>
 </p>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECT -->
+<!-- TECHNICAL TOOLKIT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp;Featured Project
+## 🛠️ Technical Toolkit
 
-<table>
-<tr>
-<td width="50%">
+### 🌐 Full-Stack Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,django,python,dotnet" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_UI-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Authentication-6C47FF?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-2F74C0?style=flat-square&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+### 📊 Data, Analytics & BI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=flat-square&logo=openrefine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-9C27B0?style=flat-square&logo=diagramsdotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL_Workflows-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-117865?style=flat-square&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KPI_Dashboards-1976D2?style=flat-square&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business_Insights-E91E63?style=flat-square&logo=googleanalytics&logoColor=white"/>
+</p>
+
+### 🗄️ Databases, DevOps & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux,vercel,aws" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPS_Deployment-333333?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD_Basics-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS_%26_Domains-4285F4?style=flat-square&logo=cloudflare&logoColor=white"/>
+</p>
+
+### 📚 Currently Expanding
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FULL-STACK PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Full-Stack Engineering Projects
+
+### 🎓 Roshed — Academy Management System
+
+> A full-stack platform built to support academy operations through a modern web interface and a scalable backend architecture.
+
+- Built the frontend using **Next.js, React, TypeScript, and Tailwind CSS**
+- Developed the backend using **Django and Python**
+- Worked with relational data, API integration, deployment, and environment configuration
+- Deployed the frontend on **Vercel** and the backend on **DigitalOcean**
+- Applied a production-focused approach covering maintainability, scalability, and deployment reliability
+
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Django` `Python` `PostgreSQL` `Vercel` `DigitalOcean`
+
+---
+
+### 🤖 RoleFit — AI Resume Optimizer
+
+> An AI-powered product that compares a candidate's resume with a job description to identify alignment, missing skills, and improvement opportunities.
+
+- Designed around a real job-search problem with a clear user workflow
+- Combines web application development with AI-assisted text analysis
+- Focuses on practical recommendations instead of generic resume scoring
+- Built with product usability, structured outputs, and future scalability in mind
+
+**Focus:** `Full-Stack Development` `AI Integration` `Resume Analysis` `Product Design`
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- DATA PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 Data & BI Projects
 
 ### 🏆 Hackathon Management — Data Analysis
 
-> Extracted & analyzed **800+ participants' data** across **12 hackathons** to uncover engagement patterns and drive product decisions.
+> Extracted and analyzed data for **800+ participants** across **12 hackathons** to uncover engagement patterns and support product decisions.
 
-**Key KPIs Tracked:**
-- 📉 **52% user drop-off** after Day 1 → Proposed gamification
-- 📊 **46.8% activation rate** → Improved onboarding flow
-- 🏅 **Hard tasks: 47.9% avg score** → Added hint system
-- 🕐 **Peak activity: 9–11 PM** → Optimized notifications
-- 🔄 **29.4% retention rate** → Built loyalty program
+**Key findings and KPIs:**
+
+- 📉 **52% user drop-off** after Day 1 → Recommended gamification improvements
+- 📊 **46.8% activation rate** → Identified onboarding optimization opportunities
+- 🏅 **47.9% average score on hard tasks** → Recommended a structured hint system
+- 🕐 **Peak activity between 9–11 PM** → Supported better notification timing
+- 🔄 **29.4% retention rate** → Proposed loyalty and engagement initiatives
+
+**Project Output:**
+
+```text
+7 normalized relational tables
+10 professional visualizations
+19 KPIs across 5 analysis categories
+7 actionable business recommendations
+```
 
 **Tools:** `Python` `Pandas` `Excel` `Pivot Tables` `Matplotlib` `Power BI`
 
-</td>
-<td width="50%">
+---
 
-**What I Did:**
+### 📣 Marketing Campaign Performance Dashboard
 
+> A SQL and Power BI project designed to evaluate campaign performance and convert marketing data into clear business insights.
+
+- Analyzed campaign reach, engagement, conversion, and channel performance
+- Built reusable calculations and business-focused KPIs
+- Designed an interactive dashboard for faster performance comparison
+- Highlighted high-performing campaigns and areas requiring optimization
+
+**Tools:** `SQL` `Power BI` `DAX` `Data Modeling` `Dashboard Design`
+
+---
+
+### 💼 Interactive Sales Dashboard
+
+> A professional Power BI dashboard for monitoring sales performance, trends, products, customers, and business growth.
+
+- Built an interactive reporting experience with clear visual hierarchy
+- Tracked revenue, sales trends, product performance, and customer behavior
+- Applied data modeling and DAX measures to support reliable analysis
+- Focused on decision-ready insights rather than decorative visualizations
+
+**Tools:** `Power BI` `DAX` `Excel` `Data Cleaning` `Data Visualization`
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PRODUCT MINDSET -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💡 How I Approach Products & Data
+
+```mermaid
+graph LR
+    A["🎯 Understand the Problem"] --> B["🧩 Design the Solution"]
+    B --> C["🌐 Build the Product"]
+    C --> D["📥 Capture Reliable Data"]
+    D --> E["📊 Analyze Performance"]
+    E --> F["💡 Generate Insights"]
+    F --> G["🚀 Improve the Product"]
+    G --> C
+
+    style A fill:#1a1b27,stroke:#00D4FF,color:#fff
+    style B fill:#1a1b27,stroke:#7B2FFF,color:#fff
+    style C fill:#1a1b27,stroke:#4CAF50,color:#fff
+    style D fill:#1a1b27,stroke:#FF9800,color:#fff
+    style E fill:#1a1b27,stroke:#1976D2,color:#fff
+    style F fill:#1a1b27,stroke:#E91E63,color:#fff
+    style G fill:#1a1b27,stroke:#F44336,color:#fff
 ```
-📁 7 Relational Tables (Normalized)
-📊 10 Professional Charts
-📋 19 KPIs Across 5 Categories
-💡 7 Actionable Recommendations
-```
-
-**Analysis Categories:**
-| Category | Examples |
-|----------|----------|
-| 🟢 Engagement | DAU, Actions/User, Activation |
-| 🔴 Drop-off | Day-over-day retention curve |
-| 🟡 Performance | Score %, Acceptance rate |
-| 🔵 Behavioral | Peak hours, User actions |
-| 🟣 Business | Conversion funnel, Churn |
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -171,7 +254,7 @@ const belal = {
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> &nbsp;GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=belalwws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9"/>
@@ -179,7 +262,7 @@ const belal = {
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalwws&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalwws&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
 </p>
 
 <p align="center">
@@ -189,40 +272,15 @@ const belal = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- DATA MINDSET -->
+<!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"/> &nbsp;How I Think About Data
+<h3 align="center">Let's build useful products and turn their data into better decisions.</h3>
 
 <p align="center">
-
-```mermaid
-graph LR
-    A["📥 Raw Data"] --> B["🧹 Clean & Transform"]
-    B --> C["📊 Analyze & Model"]
-    C --> D["💡 Extract Insights"]
-    D --> E["🎯 Drive Decisions"]
-    E --> F["📈 Measure Impact"]
-    F --> |Iterate| B
-
-    style A fill:#1a1b27,stroke:#00D4FF,color:#fff
-    style B fill:#1a1b27,stroke:#FF9800,color:#fff
-    style C fill:#1a1b27,stroke:#4CAF50,color:#fff
-    style D fill:#1a1b27,stroke:#9C27B0,color:#fff
-    style E fill:#1a1b27,stroke:#F44336,color:#fff
-    style F fill:#1a1b27,stroke:#00BCD4,color:#fff
-```
-
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- QUOTE & FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <a href="mailto:belal.ahmed121sq1@gmail.com">
+    <img src="https://img.shields.io/badge/Available_for_Opportunities-00D4FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+  </a>
 </p>
 
 <br>
@@ -230,7 +288,5 @@ graph LR
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FFF&height=120&section=footer"/>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25"/>
-  &nbsp;"Data is useless without insight — I build both."&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25"/>
+  ⚡ &nbsp;"I build software products and the data systems that make them better."&nbsp; ⚡
 </h3>
